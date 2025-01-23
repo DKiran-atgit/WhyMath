@@ -68,7 +68,7 @@ The key characteristic is that **the degrees of these variables are 1 (not squar
 The "linear" in Linear Algebra emphasizes the study of systems and structures that behave in a straight-line manner. When learning or applying linear algebra, you're often dealing with concepts that can be represented graphically as lines or planes in a systematic way, and relationships between these entities are linear.
 
 
-## Is Linear Algebra used to solve second order differential equations
+## Is Linear Algebra used to solve second order differential equations: Yes, by converting to First-Order Equations
 Linear Algebra is indeed a crucial tool for solving systems of linear differential equations, including second-order differential equations.
 
 To understand how Linear Algebra is used, let's break down the process:
