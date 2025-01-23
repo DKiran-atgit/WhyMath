@@ -1,10 +1,10 @@
-# what is mathematics
+# Mathematics
 
-Subject that deals with numbers, quantities, shapes, and patterns. 
+Subject that deals with **numbers, quantities, shapes, and patterns**. 
 
-Uses logical and systematic reasoning to 
+Uses **logical and systematic reasoning** to 
 
-	describe and solve problems, 
+	describe problems and solve, 
   
 	model real-world situations, and 
   
