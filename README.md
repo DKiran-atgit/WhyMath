@@ -4,7 +4,7 @@ Subject that deals with **numbers, quantities, shapes, and patterns**.
 
 Uses **logical and systematic reasoning** to 
 
-	describe problems and solve, 
+	describe and solve the problems, 
   
 	model real-world situations, and 
   
