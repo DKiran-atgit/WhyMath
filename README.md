@@ -29,3 +29,9 @@ Various disciplines, each with its unique focus and methods:
 
 **Probability:** Quantifying uncertainty (making it less uncertain)
 
+**Discrete math**
+
+**Linear Algebra**
+
+Fith grader
+
