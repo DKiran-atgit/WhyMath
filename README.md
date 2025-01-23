@@ -1,1 +1,1 @@
-# WhyMath
+# Why Math ?
