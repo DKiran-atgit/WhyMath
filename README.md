@@ -27,5 +27,5 @@ Calculus: studies rates of change, accumulation, and optimization.
 
 Statistics: analyzes and interprets data to draw conclusions.
 
-Probability: Quantifying uncertainity (making it less uncertain)
+Probability: Quantifying uncertainty (making it less uncertain)
 
